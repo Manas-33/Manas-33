@@ -34,7 +34,7 @@
 
 #   Stats
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas-33&theme=tokyonight&hide_border=true&include_all_commits=false&border_radius=15&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manas-33&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=15&count_private=true&show_icons=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-33&theme=tokyonight&border_radius=15&hide_border=true" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-33&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&border_radius=15&layout=compact&hide=cmake" alt="GitHub Top Languages"/>
 </div>
