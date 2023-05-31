@@ -6,7 +6,7 @@
 
 - 😄 I’m a passionate **Flutter Developer** and a **Machine Learning** Enthusiast!
 
-- 🌱 Currently learning **Natural Language Processing,  Google Cloud**
+- 🌱 Currently learning **DevOps,  Google Cloud**
 
 - 🔭 I’m also exploring **Open Source.**
 
