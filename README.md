@@ -7,7 +7,7 @@
 
 - 😄 I’m a passionate **Flutter Developer** and a **Machine Learning** Enthusiast!
 
-- 🌱 Currently learning **DevOps,  Google Cloud**
+- 🌱 Currently learning **Deep Learning,  Google Cloud**
 
 - 🔭 I’m also exploring **Open Source.**
 
