@@ -42,7 +42,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center"  justify-content: center;>
-  <img src="https://github-profile-trophy.vercel.app/?username=Manas-33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=50&title=MultiLanguage,Commits,Repositories,PullRequest&margin-h=8&border_radius=15" alt="GitHub Profile Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manas-33&theme=tokyonight&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest&border_radius=15" alt="GitHub Profile Trophy"/>
 </div>
 
 ### ✍️ Random Dev Quote
