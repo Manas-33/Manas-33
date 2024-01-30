@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **dalvimanas33@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1pGZiJKAgleQzoWFQUsP0_N_bfVmIAO1u/view?usp=sharing)
-
 <h3 align="left">Connect with me</h3>
 
 <!---<p align="left"> <a href="https://twitter.com/manas__33" target="blank"><img src="https://img.shields.io/twitter/follow/manas__33?logo=twitter&style=for-the-badge" alt="manas__33" /></a> </p>--->
