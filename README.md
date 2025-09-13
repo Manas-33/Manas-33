@@ -1,17 +1,19 @@
 <h1 align="center">Hi👋, I'm Manas Dalvi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-33&label=Profile%20views&color=0e75b6&style=flat-square" alt="manas-33" /> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 <!---https://komarev.com/ghpvc/?username=manas-33&label=Profile%20views&color=0e75b6&style=flat-square--->
 
 
 
 - 😄 I’m a passionate **Flutter Developer** and a **Machine Learning** Enthusiast!
 
-- 🌱 Currently learning **Deep Learning,  Google Cloud**
+- 🌱 Currently learning **Deep Learning,  Golang**
 
 - 🔭 I’m also exploring **Open Source.**
 
-- 💬 Ask me about **Flutter, UI/UX, Firebase**
+- 💬 Ask me about **Machine Learning, NLP, Flutter**
 
 - 📫 How to reach me **dalvimanas33@gmail.com**
 
