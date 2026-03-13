@@ -77,15 +77,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-33&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&hide=cmake" />
 </div>
 
+<!--
 ---
 
 ### 🌊 contributions
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
 </div>
 
 ---
+-->
 
 ### 💡 today's quote
 
