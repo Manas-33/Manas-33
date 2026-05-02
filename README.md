@@ -69,12 +69,12 @@
 ### 📡 stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas-33&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=15&count_private=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manas-33&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=15&count_private=true&show_icons=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-33&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-33&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&hide=cmake" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manas-33&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&hide=cmake" />
 </div>
 
 <!--
