@@ -1,96 +1,58 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Manas+Dalvi!;Software+%26+AI+Engineer;Full-Stack+%7C+AI+%7C+Cloud;Open+to+Summer+2026+Internships!" alt="Typing SVG" />
-</div>
+## Hi, I'm Manas 👋
 
-<br/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel-art animation of someone coding at a desk" />
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+Software engineer working on AI and ML systems.<br/>
+MS CS @ USC. AI engineering intern @ Access Ingenuity and research intern @ USC Minerva Labs.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manas-33&label=Profile+views&color=36BCF7&style=flat-square" />
-</p>
+Previously GSoC '24 @ Liquid Galaxy and SWE intern @ Ombre.<br/>
+Open to full-time SWE, AI and ML roles starting 2027.
 
-### 👾 about
+[Portfolio](https://manasdalvi.dev) · [LinkedIn](https://linkedin.com/in/manasdalvi) · [X](https://x.com/manas__33) · [Email](mailto:dalvimanas33@gmail.com)
 
-- 💻 I build **full-stack & mobile apps**, ship **AI systems**, and work across **cloud & infrastructure**
-- 🤖 Passionate about **Machine Learning, NLP, and Deep Learning**
-- 🌱 Currently exploring **Golang** and contributing to **Open Source**
-- 🔍 **Actively seeking Summer 2026 internships** — let's connect!
-- 📫 Reach me at **dalvimanas33@gmail.com**
+### AI and LLM systems
 
+- **[Reenact](https://github.com/Manas-33/Reenact)**: regression tests for LLM agents. Records a run once and replays it offline in CI, catching 17 of 20 seeded regressions. `pip install reenact`
+- **[Mulligan](https://github.com/Manas-33/mulligan)**: undo for AI agents. Logs every action with its prior state, holds risky ones for approval, and rewinds whole sessions. 🥉 AI LA Hacks 2026
+- **[Prism](https://github.com/Manas-33/prism)**: a GitHub App that reviews everything a pull request can break downstream, not just the diff. 90% of the rules it cites are correct across 160 real PRs.
+- **[OttoNote](https://github.com/Manas-33/ottonote)**: meeting notes that link every item to the transcript and fact-check the uncertain ones (98.6% recall, 93.1% precision).
 
----
+### Infrastructure
 
-### 🔗 links
+- **[Orbit](https://github.com/Manas-33/orbit)**: a distributed job orchestrator in Go, with gRPC workers, Docker-isolated tasks, DAG workflows and crash recovery.
+- **[Moment](https://github.com/Manas-33/moment)**: turns long videos into speaker-tracked vertical clips with captions, on a Django and Celery job pipeline.
 
-<p align="left">
-  <a href="https://manasdalvi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/manasdalvi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/manas__33" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/manas_3.3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:dalvimanas33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### ML and research
 
----
+- **[Offhand](https://github.com/Manas-33/offhand)**: an offline Android assistant running a LoRA-tuned Qwen3-0.6B on the phone's NPU, raising tool-call accuracy from 41% to 81%.
+- **[Budget-gated speculative decoding](https://github.com/Manas-33/Budget-Gated-Speculative-Decoding)**: a learned gate that picks which early halts are worth taking, for 8.9% more throughput on StarCoder2 with pass@1 unchanged.
 
-<!--  ### 🧬 stack
+### More projects
 
-**📱 Mobile & Frontend**
+- **[Loom](https://github.com/Manas-33/Loom)**: my job-search workspace. Checks job boards daily, tailors resumes and pre-fills applications for me to review.
+- **[Memex](https://github.com/Manas-33/memex)**: an Obsidian plugin for chatting with your notes, with hybrid search and an MCP server.
+- **[Hyperfix](https://github.com/Manas-33/Hyperfix)** ([live](https://hyperfix-app.vercel.app)): a single-focus to-do board where AI turns a brain dump into tasks.
+- **[LG AI Touristic Explorer](https://github.com/LiquidGalaxyLAB/LG-AI-Touristic-explorer)**: my Google Summer of Code project, an AI-narrated city tour on a Liquid Galaxy rig.
 
-![Flutter](https://skillicons.dev/icons?i=flutter,dart,android,figma,html,js)
+### Awards
 
-**🤖 AI / ML**
+- 🥇 **1st place**, SoCal Claude Hackathon 2026: [Nucleus](https://devpost.com/software/nucleus-3lgfki), a multi-agent hospital floor console
+- 🥈 **Runner-up**, Google DeepMind × GLITCH@UCLA Hackathon 2026: [TakeTwo](https://github.com/Manas-33/taketwo), an AI filmmaking tool
+- 🥈 **Runner-up**, Hack the Coast 2026: [Flux](https://github.com/Manas-33/hack-the-coast), a supply-chain operations agent
+- 🥉 **3rd place, Cognition track**, AI LA Hacks 2026: [Mulligan](https://github.com/Manas-33/mulligan), undo for AI agents
+- 🥈 **Runner-up, Lumio track**, ETHMumbai 2024: [ConsultX](https://github.com/Manas-33/consultX), a decentralized expert-consulting platform
 
-![ML](https://skillicons.dev/icons?i=python,tensorflow,opencv)
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="scikit-learn" style="vertical-align:middle;"/>
+### Tools
 
-**⚙️ Backend, Cloud & Databases**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,firebase,gcp,mongodb,mysql,sqlite)
-
-**🔧 Languages & Tools**
-
-![Tools](https://skillicons.dev/icons?i=go,java,cpp,c,git,postman,unity,arduino)
----
- -->
-
-
-### 📡 stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manas-33&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=15&count_private=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-33&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manas-33&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&hide=cmake" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg" />
+  <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack. Languages: Python, Go, TypeScript, JavaScript, Java, C++, Dart, Kotlin. AI and ML: Claude, Gemini, LangChain, LangGraph, MCP, PyTorch, Hugging Face, scikit-learn, OpenCV, Whisper, pyannote, spaCy, Tree-sitter. Backend and data: FastAPI, Django, Flask, Node.js, Express, Celery, gRPC, Socket.IO, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Supabase, Firebase, Qdrant. Cloud and DevOps: Docker, Kubernetes, AWS, Azure, GCP, GitHub Actions, Prometheus, Grafana, Vercel. Frontend and mobile: React, Next.js, Vite, Tailwind, Flutter, Android. Developer tools: Git, GitHub, Linux, Postman, VS Code, Cursor, Claude Code, Codex." />
+</picture>
 
 <!--
----
-
-### 🌊 contributions
+### Contributions
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
 </div>
-
----
 -->
-
-### 💡 today's quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
