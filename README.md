@@ -2,37 +2,59 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel-art animation of someone coding at a desk" />
 
-Software engineer working on AI and ML systems.<br/>
-MS CS @ USC. AI engineering intern @ Access Ingenuity and research intern @ USC Minerva Labs.
+### Software engineer working on AI and ML systems
 
-Previously GSoC '24 @ Liquid Galaxy and SWE intern @ Ombre.<br/>
-Open to full-time SWE, AI and ML roles starting 2027.
+🎓 MS CS @ USC, graduating May 2027<br/>
+💼 AI engineering intern @ Access Ingenuity<br/>
+🔬 Research intern @ USC Minerva Labs<br/>
+🌱 Previously GSoC '24 @ Liquid Galaxy, SWE intern @ Ombre<br/>
+🔍 Open to full-time SWE, AI and ML roles in 2027
 
 [Portfolio](https://manasdalvi.dev) · [LinkedIn](https://linkedin.com/in/manasdalvi) · [X](https://x.com/manas__33) · [Email](mailto:dalvimanas33@gmail.com)
 
 ### AI and LLM systems
 
-- **[Reenact](https://github.com/Manas-33/Reenact)**: regression tests for LLM agents. Records a run once and replays it offline in CI, catching 17 of 20 seeded regressions. `pip install reenact`
-- **[Mulligan](https://github.com/Manas-33/mulligan)**: undo for AI agents. Logs every action with its prior state, holds risky ones for approval, and rewinds whole sessions. 🥉 AI LA Hacks 2026
-- **[Prism](https://github.com/Manas-33/prism)**: a GitHub App that reviews everything a pull request can break downstream, not just the diff. 90% of the rules it cites are correct across 160 real PRs.
-- **[OttoNote](https://github.com/Manas-33/ottonote)**: meeting notes that link every item to the transcript and fact-check the uncertain ones (98.6% recall, 93.1% precision).
+- **[Reenact](https://github.com/Manas-33/Reenact)** · Regression tests for LLM agents<br/>
+  Replays agent runs offline in CI. Caught 17 of 20 seeded regressions. `pip install reenact`
+
+- **[Mulligan](https://github.com/Manas-33/mulligan)** · Undo for AI agents<br/>
+  Logs every action, holds risky ones for approval, rewinds whole sessions. 🥉 AI LA Hacks 2026
+
+- **[Prism](https://github.com/Manas-33/prism)** · Code review for a PR's blast radius<br/>
+  A GitHub App that checks everything a change can break downstream. 90% citation precision on 160 real PRs.
+
+- **[OttoNote](https://github.com/Manas-33/ottonote)** · Meeting notes that show their sources<br/>
+  Every item links to the transcript, and uncertain ones get fact-checked. 98.6% recall, 93.1% precision.
 
 ### Infrastructure
 
-- **[Orbit](https://github.com/Manas-33/orbit)**: a distributed job orchestrator in Go, with gRPC workers, Docker-isolated tasks, DAG workflows and crash recovery.
-- **[Moment](https://github.com/Manas-33/moment)**: turns long videos into speaker-tracked vertical clips with captions, on a Django and Celery job pipeline.
+- **[Orbit](https://github.com/Manas-33/orbit)** · Distributed job orchestrator in Go<br/>
+  gRPC workers, Docker-isolated tasks, DAG workflows and crash recovery.
+
+- **[Moment](https://github.com/Manas-33/moment)** · Long videos to vertical clips<br/>
+  Speaker-tracked crops and captions on a Django and Celery job pipeline.
 
 ### ML and research
 
-- **[Offhand](https://github.com/Manas-33/offhand)**: an offline Android assistant running a LoRA-tuned Qwen3-0.6B on the phone's NPU, raising tool-call accuracy from 41% to 81%.
-- **[Budget-gated speculative decoding](https://github.com/Manas-33/Budget-Gated-Speculative-Decoding)**: a learned gate that picks which early halts are worth taking, for 8.9% more throughput on StarCoder2 with pass@1 unchanged.
+- **[Offhand](https://github.com/Manas-33/offhand)** · Offline assistant on a phone NPU<br/>
+  LoRA-tuned Qwen3-0.6B. Tool-call accuracy from 41% to 81%.
+
+- **[Budget-gated speculative decoding](https://github.com/Manas-33/Budget-Gated-Speculative-Decoding)** · Faster LLM code generation<br/>
+  A learned gate for early halts. +8.9% throughput on StarCoder2, pass@1 unchanged.
 
 ### More projects
 
-- **[Loom](https://github.com/Manas-33/Loom)**: my job-search workspace. Checks job boards daily, tailors resumes and pre-fills applications for me to review.
-- **[Memex](https://github.com/Manas-33/memex)**: an Obsidian plugin for chatting with your notes, with hybrid search and an MCP server.
-- **[Hyperfix](https://github.com/Manas-33/Hyperfix)** ([live](https://hyperfix-app.vercel.app)): a single-focus to-do board where AI turns a brain dump into tasks.
-- **[LG AI Touristic Explorer](https://github.com/LiquidGalaxyLAB/LG-AI-Touristic-explorer)**: my Google Summer of Code project, an AI-narrated city tour on a Liquid Galaxy rig.
+- **[Loom](https://github.com/Manas-33/Loom)** · My job-search workspace<br/>
+  Checks job boards daily, tailors resumes and pre-fills applications for review.
+
+- **[Memex](https://github.com/Manas-33/memex)** · Chat with your Obsidian notes<br/>
+  Hybrid search and an MCP server, on a local model or Gemini.
+
+- **[Hyperfix](https://github.com/Manas-33/Hyperfix)** · A single-focus to-do board<br/>
+  AI turns a brain dump into tasks. [Live app](https://hyperfix-app.vercel.app)
+
+- **[LG AI Touristic Explorer](https://github.com/LiquidGalaxyLAB/LG-AI-Touristic-explorer)** · Google Summer of Code '24<br/>
+  An AI-narrated city tour on a Liquid Galaxy rig.
 
 ### Awards
 
